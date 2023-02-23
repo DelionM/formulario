@@ -1,0 +1,9 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\bin\Debug\formulario.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\bin\Debug\formulario.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\bin\Debug\formulario.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\obj\Debug\formulario.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\obj\Debug\formulario.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\obj\Debug\formulario.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\formulario\formulario\obj\Debug\formulario.pdb
